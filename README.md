@@ -1,2 +1,2 @@
 # 1st-project
-try to learn basics of github
+try to learn basics of github class.
